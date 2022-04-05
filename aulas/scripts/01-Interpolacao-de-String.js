@@ -5,4 +5,4 @@ let velocity = prompt(`Digite a velocidade da nave ${spaceshipName} em km/s`)
 console.log("Nome da nave: " + spaceshipName + "\nsua velocidade atual é: " + velocity +"km/s")
 
 //interpolação de strings
-console.log(`Nome da nave: ${spaceshipName} \nsua velocidade atual é: ${velocity}km/s`)
+console.log(`Nome da nave: ${spaceshipName} \nsua velocidade atual é: ${velocity}km/s`) 
