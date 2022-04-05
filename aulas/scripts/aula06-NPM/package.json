@@ -1,0 +1,28 @@
+{
+  "name": "npm_class",
+  "version": "1.0.0",
+  "description": "Aula para estudar NPM",
+  "main": "06-Npm-init-e-instalacao-de-pacotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miicchhel/JS-Moderno-ES6-.git"
+  },
+  "keywords": [
+    "NPM",
+    "class",
+    "study",
+    "javascript"
+  ],
+  "author": "Michel Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miicchhel/JS-Moderno-ES6-/issues"
+  },
+  "homepage": "https://github.com/Miicchhel/JS-Moderno-ES6-#readme",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
